@@ -9,7 +9,7 @@
 		<div class="col-md-6">
 			<div class=col-md-6>
 				<form action="search.jsp" class="d-flex">
-					<input class="form-control me-2" type="search" placeholder="Search"
+					<input class="form-control me-2" type="search" placeholder="Type book'name or author to search"
 						aria-label="Search" name="search">
 					<button class="btn btn-primary" type="submit" >Search</button>
 				</form>
